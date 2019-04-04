@@ -7,7 +7,11 @@ cout<<"Petar Proshev"
 }
 
 void printMyIndex () {
+<<<<<<< HEAD
 	//TODO	
+=======
+cout<<"171 096"
+>>>>>>> bugFix2
 }
 
 int main () {
